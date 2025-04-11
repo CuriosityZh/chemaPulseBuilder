@@ -1,0 +1,23 @@
+
+---
+
+### **2. main_EndpointWatchNode**  
+**Description:**  
+Monitors a node of API endpoints, reporting real-time latency, status codes, and failures.
+
+#### **README.md**
+```markdown
+# EndpointWatchNode - Multi-API Health Checker
+
+EndpointWatchNode tracks a network of endpoints for uptime, latency trends, and service errors.
+
+## Features
+- Logs latency + HTTP status  
+- Tabular CLI report  
+- Export to CSV / JSON  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_EndpointWatchNode.git
+cd main_EndpointWatchNode
+python monitor.py
