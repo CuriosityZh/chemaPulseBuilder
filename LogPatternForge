@@ -1,0 +1,23 @@
+
+---
+
+### **3. main_LogPatternForge**  
+**Description:**  
+Scans logs for patterns, burst events, and repeated entries with timestamp clustering.
+
+#### **README.md**
+```markdown
+# LogPatternForge - Log Burst & Pattern Analyzer
+
+LogPatternForge uncovers repetition, spike behavior, and log trends in your system or application logs.
+
+## Features
+- Keyword bursts and trends  
+- Frequency histogram  
+- Simple CLI usage  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_LogPatternForge.git
+cd main_LogPatternForge
+python analyze.py logs/app.log
