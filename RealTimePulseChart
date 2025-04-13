@@ -1,0 +1,23 @@
+
+---
+
+### **4. main_RealTimePulseChart**  
+**Description:**  
+Visualizes real-time numeric streams with smooth scrolling and live metrics display.
+
+#### **README.md**
+```markdown
+# RealTimePulseChart - Live Metric Stream Visualizer
+
+RealTimePulseChart displays streaming values in a responsive chart ideal for dashboards and system monitoring.
+
+## Features
+- Auto-updating line chart  
+- Adjustable refresh rate  
+- Matplotlib-powered  
+
+## Usage
+```bash
+git clone https://github.com/your-username/main_RealTimePulseChart.git
+cd main_RealTimePulseChart
+python visualize.py
